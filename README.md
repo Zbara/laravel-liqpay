@@ -9,7 +9,7 @@ A Laravel package for the LiqPay PHP SDK.
 
 ## Instalation
 ```
-composer require deniztezcan/laravel-liqpay
+composer require zbara/laravel-liqpay
 ```
 
 Add a ServiceProvider to your providers array in `config/app.php`:
